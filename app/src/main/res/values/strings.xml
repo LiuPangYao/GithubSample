@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GithubSample</string>
+    <string name="LOGIN">登入</string>
+    <string name="REGISTER">註冊</string>
 </resources>
